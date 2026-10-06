@@ -395,11 +395,11 @@ After completing this practical, the student will be able to:
 
 ### Person Data - Light Mode
 
-![Person Data - Light Mode](./app/screenshots/ss1.png)
+![Person Data - Light Mode](./app/screenshots/ss2.png)
 
 ### Person Data - Dark Mode
 
-![Person Data - Dark Mode](./app/screenshots/ss2.png)
+![Person Data - Dark Mode](./app/screenshots/ss1.png)
 ---
 
 ## Student Details
